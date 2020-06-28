@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="yolo_test" type="yolo_test" name="yolo_test">
+    
+    </node>
+</launch>

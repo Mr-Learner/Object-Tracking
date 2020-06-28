@@ -1,0 +1,20 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/lee/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/lee/catkin_ws/src/vision_opencv/cv_bridge/include/**",
+        "/home/lee/catkin_ws/src/darknet_ros/darknet_ros/include/**",
+        "/home/lee/catkin_ws/src/vision_opencv/image_geometry/include/**",
+        "/home/lee/catkin_ws/src/yolo_test/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ]
+}
